@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# alekh-m.github.io
-=======
 # Tic Tac Toe Website
 
 This repository hosts a simple Tic Tac Toe web app with:
@@ -63,4 +60,3 @@ Frontend:
 
 - Open `index.html` directly, or serve the repo root with any static file server.
 - Ensure backend is reachable at the configured API base URL.
->>>>>>> Stashed changes
